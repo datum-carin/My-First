@@ -24,20 +24,15 @@ Search Contact: Searches for a contact by name.
 Exit: Exits the program and frees allocated memory.
 
 
-Requirements
-C Compiler: The program is written in C and requires a C compiler to compile and run.
+Requirements:
 
-   For example: GCC, Clang, or MSVC.
+C Compiler: The program is written in C and requires a C compiler to compile and run.   For example: GCC, Clang, or MSVC.
    
 Operating System: The program can run on any operating system with a compatible C compiler (Windows, Linux, macOS).
 
 
 Limitations
-This program doesn't handle invalid input types (e.g., entering non-numeric characters for phone numbers).
-
-There is no limit to the number of contacts, other than the system's available memory.
-
-Contacts are stored temporarily in memory; the program does not save the data to a file.
+This program doesn't handle invalid input types (e.g., entering non-numeric characters for phone numbers).There is no limit to the number of contacts, other than the system's available memory.Contacts are stored temporarily in memory; the program does not save the data to a file.
 
 
 License:  
