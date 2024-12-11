@@ -1,6 +1,8 @@
-# My-First
-Phone Directory Application - README
-Overview:   This is a simple command-line application to manage a phone directory using a doubly linked list. The program allows users to:
+# Phone Directory Application - README
+Overview:  
+
+This is a simple command-line application to manage a phone directory using a doubly linked list. 
+The program allows users to:
 
 Add a contact (name and phone number),
 Display all contacts,
