@@ -31,7 +31,7 @@ C Compiler: The program is written in C and requires a C compiler to compile and
 Operating System: The program can run on any operating system with a compatible C compiler (Windows, Linux, macOS).
 
 
-Limitations
+Limitations:
 This program doesn't handle invalid input types (e.g., entering non-numeric characters for phone numbers).There is no limit to the number of contacts, other than the system's available memory.Contacts are stored temporarily in memory; the program does not save the data to a file.
 
 
